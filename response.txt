@@ -1,0 +1,18 @@
+Based on the data from the 'vulnerabilities' table, here is a detailed description of each vulnerability:
+
+1. **SQL Injection**:
+   - **Description**: This vulnerability involves a SQL Injection vulnerability in the login module of the system. SQL Injection is a type of attack that allows an attacker to execute malicious SQL statements to control a database.
+   - **Severity**: High
+   - **Date Discovered**: 1/15/2024
+
+2. **XSS (Cross-Site Scripting)**:
+   - **Description**: This vulnerability is related to Cross-Site Scripting in the comments section of the system. Cross-Site Scripting is a type of security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users.
+   - **Severity**: Medium
+   - **Date Discovered**: 2/20/2024
+
+3. **Buffer Overflow**:
+   - **Description**: This vulnerability involves a Buffer Overflow in the image processing library of the system. Buffer Overflow is a type of vulnerability where a program writes more data to a block of memory, or buffer, than it was allocated, leading to potential security issues.
+   - **Severity**: Critical
+   - **Date Discovered**: 3/10/2024
+
+These vulnerabilities pose significant risks to the security of the system and should be addressed promptly to prevent potential exploitation by malicious actors. It is crucial for organizations to implement proper security measures and patches to mitigate the impact of these vulnerabilities.

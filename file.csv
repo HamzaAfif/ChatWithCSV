@@ -1,0 +1,4 @@
+ID,Title,Description,Severity,Date Discovered
+1,SQL Injection,SQL Injection vulnerability in the login module,High,1/15/2024
+2,XSS,Cross-Site Scripting vulnerability in the comments section,Medium,2/20/2024
+3,Buffer Overflow,Buffer Overflow in the image processing library,Critical,3/10/2024
